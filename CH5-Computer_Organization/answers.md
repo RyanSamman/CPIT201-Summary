@@ -1,3 +1,5 @@
+# Answers to the Review Questions
+
 # What are the three subsystems that make up a computer?
 - CPU
 - Memory
@@ -19,15 +21,23 @@ In general, it manages everything in the CPU
 To store program instructions and data, each with a unique address.
 
 # Define RAM, ROM, SRAM, DRAM, PROM, EPROM and EEPROM.
-RAM - Random Access Memory - to store programs temporarily, and is volatile
+## RAM - Random Access Memory
+Stores programs temporarily, and is volatile
 Stores the majority of data on the computer
 
-SRAM is a type of RAM which works by switching on (1) and off (0) logic gates, and doesn't need to be refreshed
+## SRAM  - Static RAM
+is a type of RAM which works by switching on (1) and off (0) logic gates, and doesn't need to be refreshed
 DRAM is a type of RAM which works by charging capacitors. As you read, you drain the capacitors, the content's address locations need to be refreshed
 
-ROM - Read Only Memory - Permanent storage of data, and is involatile (contents are kept when the power cuts off). Usually contains the bootstrapper program to start the Operating System.
+## ROM - Read Only Memory 
+Permanent storage of data, and is involatile (contents are kept when the power cuts off).
 
-PROM - ROM but manufactor can program it
+ Usually contains the bootstrapper program to start the Operating System.
+
+## PROM - Programmable ROM
+ROM but manufactor can program it 
+
+Can only be done **ONCE**
 
 EPROM - Can be erased in special conditions (UV light)
 
