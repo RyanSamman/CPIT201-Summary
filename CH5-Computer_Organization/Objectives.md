@@ -6,9 +6,8 @@
 - Input/Output
 
 ## Describe the role of the central processing unit (CPU).
-Performs operations on data, and contains the ALU, CU, and Registers, which do:
+Performs operations on data, and contains the ALU, CU, and Registers
 
-## Structure of the CPU (Extra)
 ### Arithmetic Logic Unit - ALU
 Performs three main operations:
 #### Logic 
