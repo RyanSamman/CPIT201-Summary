@@ -160,7 +160,7 @@ Very Basic, everything is sequential
 
 ## SIMD - single instruction-stream, multiple data-stream 
 - One CU
-- One ALU
+- Multiple ALUs
 - Multiple Memory Units
 Matrix/Array data processing?
 GPU uses SIMD
